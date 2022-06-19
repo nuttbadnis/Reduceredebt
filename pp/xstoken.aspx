@@ -1,0 +1,1 @@
+﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="xstoken.aspx.vb" Inherits="xstoken" %>

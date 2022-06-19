@@ -1,0 +1,49 @@
+﻿
+table.dataTable {
+  font-size: 13px;
+}
+/*.checkbox {
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+  padding: 5px 12px;
+  font-weight: bold;
+  color: #2196F3;
+}*/
+select.form-control {
+  font-size: 14px;
+}
+
+.disorplay {
+  float: right;
+}
+
+.alert-bar {
+  margin-bottom: 20px;
+}
+
+.alert-patch {
+  padding: 7px 15px 7px 15px;
+  margin-bottom: 5px;
+}
+
+.alert-bar .alert-dismissible {
+  padding-right: 35px;
+}
+
+.alert-bar .close {
+  font-size: 14px;
+  top: 0;
+  opacity: 0.5;
+}
+
+.alert-bar .close {
+  font-size: 14px;
+  top: 0;
+  opacity: 0.5;
+}
+
+.alert-bar .close:hover {
+  opacity: 1;
+  color: #0c86e6;
+  color: #ff4900;
+}

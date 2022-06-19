@@ -1,0 +1,34 @@
+﻿@media (max-width: 2100px) {
+  .container{
+    width: 98%;
+  }
+}
+
+.nav-tabs > li > a {
+	color: #555;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+	font-weight: bold;
+	color: #FF9800;
+}
+
+#display_table{
+    overflow: auto;
+    cursor: move;
+    cursor: ew-resize;
+    border-width: 0px 1px 0px 1px;
+    border-style: solid;
+    border-color: #d7ebfb;
+    border-radius: 4px;
+    max-height: 450px;
+}
+.sel-fake {
+	width: 155px !important; 
+	text-align-last: 
+	center;
+}
+#div_sel_subject {
+	padding: 0;
+	border: 0;
+}
+

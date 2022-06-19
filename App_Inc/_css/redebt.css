@@ -1,0 +1,86 @@
+﻿
+#span_amount{
+	font-size:12px; 
+	width: auto;
+}
+#span_amount:hover {
+	cursor: pointer;
+	color: blue;
+	font-weight: bold;
+}
+
+
+.count-acc-close, .count-acc-process,
+.count-redoc-item-close, .count-redoc-item-process, 
+.count-redoc-adap-close, .count-redoc-adap-process
+{
+	display: none;
+	margin-left: 10px;
+	border-radius: 9px;
+	/*font-size: 11px;*/
+	/*margin-top:-4px*/
+}
+/*.count-acc-close {
+	background-color: #ff9800;
+}
+.count-acc-process:hover, .count-acc-close:hover{
+	cursor: pointer;
+}*/
+
+.btn-count-acc {
+    color: #ffffff;
+    background-color: #ff5645;
+    border-color: #ff4735;
+    /*background-color: #c31200;
+    border-color: #b11000;*/
+}
+
+.btn-count-acc .badge {
+    color: #ff5645;
+    background-color: #ffffff;
+}
+
+.btn-count-acc:hover, .btn-count-acc:active, .btn-count-acc:focus {
+    color: #ffffff;
+    background-color: #ff4735;
+}
+
+.count-acc-in-process, #acc_in_process a {
+	font-weight: bold;
+	color: #777;
+}
+.count-acc-in-close, #acc_in_close a {
+	font-weight: bold;
+	color: #ff9800;
+}
+#acc_in_process a:hover, #acc_in_close a:hover {
+	color: #0c86e6;
+	text-decoration: none;
+}
+
+#modal_redebt_history .modal-body, #modal_redebt_history .modal-body textarea {
+	font-size: 12px;
+}
+
+.label-padtop-inlinebtn {
+	padding-top: 2px !important;
+}
+
+.left-10 {
+	margin-left: 10px;
+}
+
+#status_reccm_ok, #status_reccm_qq, #doc_ref_qq {
+	display: none;
+	margin-left: 10px;
+}
+#status_reccm_ok {
+	background-color: green;
+}
+#status_reccm_qq {
+	background-color: #ff9800;
+}
+#status_reccm_qq:hover {
+	background-color: #ea8800;
+	cursor: pointer;
+}

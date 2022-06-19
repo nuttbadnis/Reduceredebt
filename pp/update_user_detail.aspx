@@ -1,0 +1,1 @@
+<%@ Page Language="VB" AutoEventWireup="false" CodeFile="update_user_detail.aspx.vb" Inherits="update_user_detail" %>

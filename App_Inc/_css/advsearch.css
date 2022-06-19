@@ -1,0 +1,106 @@
+﻿@media (max-width: 2100px) {
+  .container{
+    width: 98%;
+  }
+}
+
+#display_table{
+	/*overflow-x: hidden;*/
+	overflow-x: auto;
+	cursor: move;
+	cursor: ew-resize;
+	border-width: 0px 1px 0px 1px;
+	border-style: solid;
+	border-color: #d7ebfb;
+	border-radius: 4px;
+}
+
+span.multiselect-native-select .btn-group .btn {
+	text-align: left;
+}
+.space-br {
+	height: 5px;
+}
+hr.end-row {
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+.with-nav-tabs .nav-tabs{
+	font-size: 20px;
+	font-family: 'Kanit', sans-serif;
+}
+.with-nav-tabs.panel-default .nav-tabs > li > a, .with-nav-tabs.panel-default .nav-tabs > li > a:hover, .with-nav-tabs.panel-default .nav-tabs > li > a:focus {
+	color: #0064e4;
+}
+.ui-datepicker .ui-datepicker-title select {
+	height: 22px;
+}
+
+
+a.a-gray {
+	color: #999;
+}
+a.a-gray:hover {
+	color: #666;
+}
+#btn_sorting_create_desc, #btn_sorting_create_asc, #btn_sorting_update_desc, #btn_sorting_update_asc {
+	float: right;
+}
+span.multiselect-native-select .btn-group .btn {
+	text-align: left;
+}
+.space-br {
+	height: 5px;
+}
+hr.end-row {
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+.with-nav-tabs .nav-tabs{
+	font-size: 18px;
+	font-family: 'Kanit', sans-serif;
+}
+.with-nav-tabs.panel-default .nav-tabs > li.active > a,
+.with-nav-tabs.panel-default .nav-tabs > li.active > a:hover,
+.with-nav-tabs.panel-default .nav-tabs > li.active > a:focus {
+	color: #0064e4;
+}
+.ui-datepicker .ui-datepicker-title select {
+	height: 22px;
+}
+.pagination {
+	padding-top: 6px;
+}
+#display_table{
+	overflow: auto;
+	cursor: move;
+	cursor: ew-resize;
+	margin-top: 10px;
+	border-width: 0px 1px 0px 1px;
+	border-style: solid;
+	border-color: #d7ebfb;
+	border-radius: 4px;
+}
+table.dataTable {
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+}
+.table-hover > tbody > tr:hover {
+	background-color: #eaeaea;
+}
+
+#click_advance_filter label{
+	cursor: pointer;
+}
+
+
+select.form-control {
+	font-size: 13px;
+	color: #333 !important;
+}
+span.multiselect-native-select .btn-group .btn {
+	font-size: 13px;
+}
+.multiselect-container {
+	font-size: 13px;
+}
